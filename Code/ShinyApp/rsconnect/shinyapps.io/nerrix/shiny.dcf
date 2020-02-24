@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: nerrix
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1295808
+bundleId: 2484710
+url: https://nerrix.shinyapps.io/shiny/
+when: 1570641258.97522
